@@ -83,3 +83,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
+![Screenshot (151)](https://github.com/Minithra3465/CODTECH-TASK1/assets/146345511/5581b84d-6ae0-47a5-bab1-c28a8797c354)
+![Screenshot (150)](https://github.com/Minithra3465/CODTECH-TASK1/assets/146345511/f4b7be04-2073-4274-80f8-1810109da1c7)
